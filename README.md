@@ -1,4 +1,4 @@
-![Header](https://github.com/JuanDls01/juandls01/raw/main/portadafullstackdeveloper.png)
+![Header](https://github.com/raffagapro/Aboutme/blob/7cad8a0c4d59fc157cd4d66440d3a694aec7ffec/github%20portada.png)
 </br>
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raffagapro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-luna-84b6261a9/)
