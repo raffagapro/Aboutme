@@ -9,17 +9,17 @@
 
 ```javascript
 const chris = {
-   code: [Javascript, HTML, CSS, PHP, C#],
+   code: [Javascript, TypeScript, HTML, CSS, PHP, C#],
    technologies: {
       frontEnd: ["React", "Redux", "Styled-Components", "Figma", "Ionic", "Laravel"]
       backEnd: ["Node.js", "Express", "Sequelize"],
       databases: ["PostgreSQL"],
       deploy: ["Vercel", "Heroku"]
    },
-   softSkills: ["Proactividad", "Trabajo en equipo", "Liderazgo", "Disciplina"]
+   softSkills: ["Proactive", "Teamwork", "Leadership", "Resourceful"]
 };
 ```
-- 🔭 I’m currently working on My Henry PG
+- 🔭 I’m currently working for Softserv and Henry
 - 🌱 I’m currently learning Algorithms and Data Science 
 - 👯 I’m looking to collaborate on AI projects!
 - 🤔 I’m looking for help with making the jump from freelance to fulltime!
